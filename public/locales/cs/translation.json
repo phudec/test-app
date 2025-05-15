@@ -81,7 +81,19 @@
 		"You have unsaved changes, do you want to discard them?": "Máte neuložené změny, přejete si je zrušit?",
 		"Fullscreen": "Celá obrazovka",
 		"Exit Fullscreen": "Opustit celou obrazovku",
-		"Invalid Date": "Nesprávné datum"
+		"Invalid Date": "Nesprávné datum",
+		"Users":"Uživatelé",
+		"Email":"Email",
+		"Username":"Uživatelé jméno",
+		"Address":"Adresa",
+		"Last sign in":"Poslední přihlášení",
+		"User detail":"Detail uživatele",
+		"Phone number":"Telefonní číslo",
+		"ID":"ID",
+		"IP address":"IP adresa",
+		"MAC address":"MAC adresa",
+		"General info":"Obecné informace",
+		"Others":"Ostatní"
 	},
 
 	"Training": {
